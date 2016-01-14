@@ -24,7 +24,7 @@ set showmatch
 " enable all Python syntax highlighting features
 let python_highlight_all = 1
 
-set list listchars=tab:▷⋅,trail:⋅,nbsp:⋅
+" set list listchars=tab:▷⋅,trail:⋅,nbsp:⋅
 filetype plugin indent on
 au FileType py set autoindent
 au FileType py set smartindent
